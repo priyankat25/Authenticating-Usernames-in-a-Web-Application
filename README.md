@@ -11,9 +11,9 @@ Display whether the given username starts with the specified prefix.
 
 Examples:
 Input:  Java44
- 		    Java
+ 	Java
 Output: true
 
 Input:  Hello45
-		    Java
+	JavaScript
 Output: false	
